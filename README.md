@@ -112,7 +112,7 @@ socks4://192.111.137.34:18765
 - Backend tests each proxy and returns result with type and latency.
 - Results table updates live.
 
-## 🖼 Sample Screenshot
+## 🖼 Screenshots
 ![default](/screenshots/default.png)
 ![complete](/screenshots/complete.png)
 
